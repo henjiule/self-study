@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8280f49-c4f7-414a-bfc3-fbf619d0ead8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cn/itcast/demo/README/day02/BreakDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/itcast/demo/README/day02/ContinueDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cn/itcast/demo/README/day02/ForForDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/itcast/demo/README/day02/BreakDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/itcast/demo/README/day02/RandomDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/itcast/demo/README/day02/RandomDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/itcast/demo/README/day02/SendOrangeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/itcast/demo/README/day03/MethodDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/itcast/demo/README/day03/MethodDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cn/itcast/demo/README/day03/MethodDemo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,9 +57,48 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ContinueDemo1">
-    <configuration name="BreakDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.demo.README.day02.BreakDemo1" />
+  <component name="RunManager" selected="Application.MethodDemo3">
+    <configuration name="MethodDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.demo.README.day03.MethodDemo1" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.demo.README.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.demo.README.day03.MethodDemo2" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.demo.README.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.demo.README.day03.MethodDemo3" />
+      <module name="JavaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.demo.README.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.demo.README.day02.RandomDemo1" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -67,47 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContinueDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.demo.README.day02.ContinueDemo1" />
-      <module name="JavaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.itcast.demo.README.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DeadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.demo.README.day02.DeadDemo" />
-      <module name="JavaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.itcast.demo.README.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForForDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.demo.README.day02.ForForDemo" />
-      <module name="JavaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.itcast.demo.README.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WhileDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.itcast.demo.README.day02.WhileDemo3" />
+    <configuration name="RandomDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.demo.README.day02.RandomDemo2" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ContinueDemo1" />
-        <item itemvalue="Application.BreakDemo1" />
-        <item itemvalue="Application.ForForDemo" />
-        <item itemvalue="Application.DeadDemo" />
-        <item itemvalue="Application.WhileDemo3" />
+        <item itemvalue="Application.MethodDemo3" />
+        <item itemvalue="Application.MethodDemo2" />
+        <item itemvalue="Application.MethodDemo1" />
+        <item itemvalue="Application.RandomDemo2" />
+        <item itemvalue="Application.RandomDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +151,10 @@
       <workItem from="1605186544618" duration="5206000" />
       <workItem from="1605229609215" duration="3674000" />
       <workItem from="1605276502379" duration="759000" />
-      <workItem from="1605453030811" duration="242000" />
+      <workItem from="1605453030811" duration="2806000" />
+      <workItem from="1605455902439" duration="1180000" />
+      <workItem from="1605885059643" duration="133000" />
+      <workItem from="1605885220964" duration="2294000" />
     </task>
     <servers />
   </component>
@@ -155,41 +162,41 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="190" key="GridCell.Tab.0.bottom" timestamp="1605277315925">
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom" timestamp="1605887265922">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605277315925" />
-    <state width="1493" height="190" key="GridCell.Tab.0.center" timestamp="1605277315925">
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605887265922" />
+    <state width="1493" height="190" key="GridCell.Tab.0.center" timestamp="1605887265922">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605277315925" />
-    <state width="1493" height="190" key="GridCell.Tab.0.left" timestamp="1605277315925">
+    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605887265922" />
+    <state width="1493" height="190" key="GridCell.Tab.0.left" timestamp="1605887265922">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605277315925" />
-    <state width="1493" height="190" key="GridCell.Tab.0.right" timestamp="1605277315925">
+    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605887265922" />
+    <state width="1493" height="190" key="GridCell.Tab.0.right" timestamp="1605887265922">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605277315925" />
-    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1605232813843">
+    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605887265922" />
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1605455882724">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605232813843" />
-    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1605232813842">
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605455882724" />
+    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1605455882724">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605232813842" />
-    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1605232813842">
+    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605455882724" />
+    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1605455882724">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605232813842" />
-    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1605232813843">
+    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605455882724" />
+    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1605455882724">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605232813843" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605233504245">
+    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605455882724" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605887179347">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605233504245" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1605887179347" />
   </component>
 </project>
